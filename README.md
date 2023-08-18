@@ -89,6 +89,7 @@ I am using Visual Studio code this time I created lots of projects with this cod
   }
 ```
 
+
 ## ⚙️ Used VS Code Extension
 - Auto Close Tag
 - Auto Rename Tag
@@ -100,6 +101,7 @@ I am using Visual Studio code this time I created lots of projects with this cod
 - Prettier - Code formatter
 - Tailwind CSS IntelliSense
 
+
 ## 🎨 VS Code Themes
 - Andromeda 👈
 - Dracula Official
@@ -107,6 +109,7 @@ I am using Visual Studio code this time I created lots of projects with this cod
 - Shades of Purple
 - SynthWave '84
 - Ayu (Theme)
+
 
 ## 🔑 Most Used VS Code Keyboard Shortcuts 
 | Keyboard Shortcuts | Windows / Linux     | Mac   |
@@ -134,6 +137,7 @@ I am using Visual Studio code this time I created lots of projects with this cod
 |  To Show suggestion | Ctrl + Space | cmd + space |
 |  To Close a TAB | Ctrl + W | cmd + W |
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
+
 
 ## ✒ Font Info
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code)
